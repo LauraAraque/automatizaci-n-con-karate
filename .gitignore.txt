@@ -1,0 +1,12 @@
+.idea/
+*.iml
+*.ipr
+*.iws
+/target/
+/build/
+*.log
+*.tmp
+*.swp
+*.env
+karate-config.js
+karate-reports/
